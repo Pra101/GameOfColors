@@ -1,4 +1,5 @@
-How to Play?
+#How to Play?
+
 This is a color guessing game. On top, the RGB color code of a randomly picked color is displayed, for example RGB(123, 231, 213). You have to guess which of the squares below uses this color.
 I made this game as a project in the Web Developer Bootcamp course (Section 15: Color Game Project) by Colt Steele on Udemy.
 What is RGB?
