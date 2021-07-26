@@ -12,8 +12,8 @@ If all three components are 0, no color is present and gives black. If all three
 RGB Combo explained
 
 RGB(255, 0, 0) gives red
-RGB(0, 255, 0) gives green
-RGB(0, 0, 255) gives blue
-RGB(255, 255, 0) gives yellow
-RGB(255, 0, 255) gives magenta
-RGB(0, 255, 255) gives cyan
+<br>RGB(0, 255, 0) gives green
+<br>RGB(0, 0, 255) gives blue
+<br>RGB(255, 255, 0) gives yellow
+<br>RGB(255, 0, 255) gives magenta
+<br>RGB(0, 255, 255) gives cyan
